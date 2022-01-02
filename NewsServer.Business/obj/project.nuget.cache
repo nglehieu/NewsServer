@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "t2KPXRAFvoK+kUhWGm5JCVutiYWiitp3hobJsyQVRjmL+pgHaOyN/rXsjWB2t/ksx9LrnKp8OurLUj8Sejel5g==",
+  "dgSpecHash": "SzsyJwGHxmrD3+MPsfxLp3ehC7QlBylf4Rg+cIs4UaGL9W4U+HC2+r+3iCQAU9f1KCwRz9RW+G//PUmfsHlbZw==",
   "success": true,
-  "projectFilePath": "E:\\1.1 TEDU\\News\\NewsSolution\\NewsServer.Business\\NewsServer.Business.csproj",
+  "projectFilePath": "E:\\1.1 TEDU\\News\\NewsServer\\NewsServer.Business\\NewsServer.Business.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

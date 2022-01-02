@@ -1,0 +1,11 @@
+E:\1.1 TEDU\News\NewsServer\NewsServer.Common\bin\Debug\net6.0\NewsServer.Common.deps.json
+E:\1.1 TEDU\News\NewsServer\NewsServer.Common\bin\Debug\net6.0\NewsServer.Common.dll
+E:\1.1 TEDU\News\NewsServer\NewsServer.Common\bin\Debug\net6.0\ref\NewsServer.Common.dll
+E:\1.1 TEDU\News\NewsServer\NewsServer.Common\bin\Debug\net6.0\NewsServer.Common.pdb
+E:\1.1 TEDU\News\NewsServer\NewsServer.Common\obj\Debug\net6.0\NewsServer.Common.GeneratedMSBuildEditorConfig.editorconfig
+E:\1.1 TEDU\News\NewsServer\NewsServer.Common\obj\Debug\net6.0\NewsServer.Common.AssemblyInfoInputs.cache
+E:\1.1 TEDU\News\NewsServer\NewsServer.Common\obj\Debug\net6.0\NewsServer.Common.AssemblyInfo.cs
+E:\1.1 TEDU\News\NewsServer\NewsServer.Common\obj\Debug\net6.0\NewsServer.Common.csproj.CoreCompileInputs.cache
+E:\1.1 TEDU\News\NewsServer\NewsServer.Common\obj\Debug\net6.0\NewsServer.Common.dll
+E:\1.1 TEDU\News\NewsServer\NewsServer.Common\obj\Debug\net6.0\ref\NewsServer.Common.dll
+E:\1.1 TEDU\News\NewsServer\NewsServer.Common\obj\Debug\net6.0\NewsServer.Common.pdb

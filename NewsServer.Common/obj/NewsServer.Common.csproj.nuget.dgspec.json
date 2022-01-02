@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "E:\\1.1 TEDU\\News\\NewsSolution\\NewsServer.Common\\NewsServer.Common.csproj": {}
+    "E:\\1.1 TEDU\\News\\NewsServer\\NewsServer.Common\\NewsServer.Common.csproj": {}
   },
   "projects": {
-    "E:\\1.1 TEDU\\News\\NewsSolution\\NewsServer.Common\\NewsServer.Common.csproj": {
+    "E:\\1.1 TEDU\\News\\NewsServer\\NewsServer.Common\\NewsServer.Common.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\1.1 TEDU\\News\\NewsSolution\\NewsServer.Common\\NewsServer.Common.csproj",
+        "projectUniqueName": "E:\\1.1 TEDU\\News\\NewsServer\\NewsServer.Common\\NewsServer.Common.csproj",
         "projectName": "NewsServer.Common",
-        "projectPath": "E:\\1.1 TEDU\\News\\NewsSolution\\NewsServer.Common\\NewsServer.Common.csproj",
+        "projectPath": "E:\\1.1 TEDU\\News\\NewsServer\\NewsServer.Common\\NewsServer.Common.csproj",
         "packagesPath": "C:\\Users\\Le Hieu\\.nuget\\packages\\",
-        "outputPath": "E:\\1.1 TEDU\\News\\NewsSolution\\NewsServer.Common\\obj\\",
+        "outputPath": "E:\\1.1 TEDU\\News\\NewsServer\\NewsServer.Common\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Le Hieu\\AppData\\Roaming\\NuGet\\NuGet.Config",

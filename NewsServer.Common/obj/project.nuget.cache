@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "b2r9O8g3pUqokOM43WxQJyFyxT9T+X3Uu0Nesd0UBq1yS4ueMTueG68QPN1sVyRPC12v9LjvXGCXixBlU9mELw==",
+  "dgSpecHash": "4XJSNwJZECOJNoFk7lB2eT19WIIMhe+4uTptV5Yxx1+exEPuzOcd/Gq/depdn5OWAb9701+3VyzCg4C7ns90vA==",
   "success": true,
-  "projectFilePath": "E:\\1.1 TEDU\\News\\NewsSolution\\NewsServer.Common\\NewsServer.Common.csproj",
+  "projectFilePath": "E:\\1.1 TEDU\\News\\NewsServer\\NewsServer.Common\\NewsServer.Common.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

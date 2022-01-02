@@ -1,4 +1,11 @@
+using Microsoft.EntityFrameworkCore;
+using NewsServer.Data.EF;
+
 var builder = WebApplication.CreateBuilder(args);
+
+
+builder.Services.AddDbContext<DataDbContext>(options => options.UseSqlServer(
+                            builder.Configuration.GetConnectionString("ConnectionString")));
 
 // Add services to the container.
 

@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\1.1 TEDU\\News\\NewsSolution\\NewsServer.Business\\NewsServer.Business.csproj",
+      "projectUniqueName": "E:\\1.1 TEDU\\News\\NewsServer\\NewsServer.Business\\NewsServer.Business.csproj",
       "projectName": "NewsServer.Business",
-      "projectPath": "E:\\1.1 TEDU\\News\\NewsSolution\\NewsServer.Business\\NewsServer.Business.csproj",
+      "projectPath": "E:\\1.1 TEDU\\News\\NewsServer\\NewsServer.Business\\NewsServer.Business.csproj",
       "packagesPath": "C:\\Users\\Le Hieu\\.nuget\\packages\\",
-      "outputPath": "E:\\1.1 TEDU\\News\\NewsSolution\\NewsServer.Business\\obj\\",
+      "outputPath": "E:\\1.1 TEDU\\News\\NewsServer\\NewsServer.Business\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Le Hieu\\AppData\\Roaming\\NuGet\\NuGet.Config",

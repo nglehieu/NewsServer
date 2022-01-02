@@ -1,17 +1,100 @@
 {
   "format": 1,
   "restore": {
-    "E:\\1.1 TEDU\\News\\NewsSolution\\NewsServer.API\\NewsServer.API.csproj": {}
+    "E:\\1.1 TEDU\\News\\NewsServer\\NewsServer.API\\NewsServer.API.csproj": {}
   },
   "projects": {
-    "E:\\1.1 TEDU\\News\\NewsSolution\\NewsServer.API\\NewsServer.API.csproj": {
+    "E:\\1.1 TEDU\\News\\NewsServer\\NewsServer.API\\NewsServer.API.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\1.1 TEDU\\News\\NewsSolution\\NewsServer.API\\NewsServer.API.csproj",
+        "projectUniqueName": "E:\\1.1 TEDU\\News\\NewsServer\\NewsServer.API\\NewsServer.API.csproj",
         "projectName": "NewsServer.API",
-        "projectPath": "E:\\1.1 TEDU\\News\\NewsSolution\\NewsServer.API\\NewsServer.API.csproj",
+        "projectPath": "E:\\1.1 TEDU\\News\\NewsServer\\NewsServer.API\\NewsServer.API.csproj",
         "packagesPath": "C:\\Users\\Le Hieu\\.nuget\\packages\\",
-        "outputPath": "E:\\1.1 TEDU\\News\\NewsSolution\\NewsServer.API\\obj\\",
+        "outputPath": "E:\\1.1 TEDU\\News\\NewsServer\\NewsServer.API\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Le Hieu\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "E:\\1.1 TEDU\\News\\NewsServer\\NewsServer.Data\\NewsServer.Data.csproj": {
+                "projectPath": "E:\\1.1 TEDU\\News\\NewsServer\\NewsServer.Data\\NewsServer.Data.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore.Design": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[6.0.0, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[6.0.0, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[6.0.0, )"
+            },
+            "Swashbuckle.AspNetCore": {
+              "target": "Package",
+              "version": "[6.2.3, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.101\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "E:\\1.1 TEDU\\News\\NewsServer\\NewsServer.Data\\NewsServer.Data.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "E:\\1.1 TEDU\\News\\NewsServer\\NewsServer.Data\\NewsServer.Data.csproj",
+        "projectName": "NewsServer.Data",
+        "projectPath": "E:\\1.1 TEDU\\News\\NewsServer\\NewsServer.Data\\NewsServer.Data.csproj",
+        "packagesPath": "C:\\Users\\Le Hieu\\.nuget\\packages\\",
+        "outputPath": "E:\\1.1 TEDU\\News\\NewsServer\\NewsServer.Data\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Le Hieu\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -40,9 +123,45 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "dependencies": {
-            "Swashbuckle.AspNetCore": {
+            "IdentityServer4.Storage": {
               "target": "Package",
-              "version": "[6.2.3, )"
+              "version": "[4.1.2, )"
+            },
+            "Microsoft.AspNetCore.Authentication.Abstractions": {
+              "target": "Package",
+              "version": "[2.2.0, )"
+            },
+            "Microsoft.AspNetCore.Identity.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[6.0.0, )"
+            },
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[6.0.0, )"
+            },
+            "Microsoft.EntityFrameworkCore.Design": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[6.0.0, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[6.0.0, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[6.0.0, )"
+            },
+            "Microsoft.Extensions.Configuration.Json": {
+              "target": "Package",
+              "version": "[6.0.0, )"
+            },
+            "MimeKit": {
+              "target": "Package",
+              "version": "[2.15.1, )"
             }
           },
           "imports": [
@@ -56,9 +175,6 @@
           "assetTargetFallback": true,
           "warn": true,
           "frameworkReferences": {
-            "Microsoft.AspNetCore.App": {
-              "privateAssets": "none"
-            },
             "Microsoft.NETCore.App": {
               "privateAssets": "all"
             }

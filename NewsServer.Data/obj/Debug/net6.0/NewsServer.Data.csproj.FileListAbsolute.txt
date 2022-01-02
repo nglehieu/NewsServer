@@ -1,0 +1,13 @@
+E:\1.1 TEDU\News\NewsServer\NewsServer.Data\obj\Debug\net6.0\NewsServer.Data.GeneratedMSBuildEditorConfig.editorconfig
+E:\1.1 TEDU\News\NewsServer\NewsServer.Data\obj\Debug\net6.0\NewsServer.Data.AssemblyInfoInputs.cache
+E:\1.1 TEDU\News\NewsServer\NewsServer.Data\obj\Debug\net6.0\NewsServer.Data.AssemblyInfo.cs
+E:\1.1 TEDU\News\NewsServer\NewsServer.Data\obj\Debug\net6.0\NewsServer.Data.csproj.CoreCompileInputs.cache
+E:\1.1 TEDU\News\NewsServer\NewsServer.Data\bin\Debug\net6.0\NewsServer.Data.deps.json
+E:\1.1 TEDU\News\NewsServer\NewsServer.Data\bin\Debug\net6.0\NewsServer.Data.runtimeconfig.json
+E:\1.1 TEDU\News\NewsServer\NewsServer.Data\bin\Debug\net6.0\NewsServer.Data.dll
+E:\1.1 TEDU\News\NewsServer\NewsServer.Data\bin\Debug\net6.0\ref\NewsServer.Data.dll
+E:\1.1 TEDU\News\NewsServer\NewsServer.Data\bin\Debug\net6.0\NewsServer.Data.pdb
+E:\1.1 TEDU\News\NewsServer\NewsServer.Data\obj\Debug\net6.0\NewsServer.Data.dll
+E:\1.1 TEDU\News\NewsServer\NewsServer.Data\obj\Debug\net6.0\ref\NewsServer.Data.dll
+E:\1.1 TEDU\News\NewsServer\NewsServer.Data\obj\Debug\net6.0\NewsServer.Data.pdb
+E:\1.1 TEDU\News\NewsServer\NewsServer.Data\obj\Debug\net6.0\NewsServer.Data.genruntimeconfig.cache

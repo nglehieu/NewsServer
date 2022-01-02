@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "E:\\1.1 TEDU\\News\\NewsSolution\\NewsServer.Infrastructure\\NewsServer.Infrastructure.csproj": {}
+    "E:\\1.1 TEDU\\News\\NewsServer\\NewsServer.Infrastructure\\NewsServer.Infrastructure.csproj": {}
   },
   "projects": {
-    "E:\\1.1 TEDU\\News\\NewsSolution\\NewsServer.Infrastructure\\NewsServer.Infrastructure.csproj": {
+    "E:\\1.1 TEDU\\News\\NewsServer\\NewsServer.Infrastructure\\NewsServer.Infrastructure.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\1.1 TEDU\\News\\NewsSolution\\NewsServer.Infrastructure\\NewsServer.Infrastructure.csproj",
+        "projectUniqueName": "E:\\1.1 TEDU\\News\\NewsServer\\NewsServer.Infrastructure\\NewsServer.Infrastructure.csproj",
         "projectName": "NewsServer.Infrastructure",
-        "projectPath": "E:\\1.1 TEDU\\News\\NewsSolution\\NewsServer.Infrastructure\\NewsServer.Infrastructure.csproj",
+        "projectPath": "E:\\1.1 TEDU\\News\\NewsServer\\NewsServer.Infrastructure\\NewsServer.Infrastructure.csproj",
         "packagesPath": "C:\\Users\\Le Hieu\\.nuget\\packages\\",
-        "outputPath": "E:\\1.1 TEDU\\News\\NewsSolution\\NewsServer.Infrastructure\\obj\\",
+        "outputPath": "E:\\1.1 TEDU\\News\\NewsServer\\NewsServer.Infrastructure\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Le Hieu\\AppData\\Roaming\\NuGet\\NuGet.Config",
